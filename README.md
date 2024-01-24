@@ -1,13 +1,6 @@
 # Black-Jack-Game
 A simple Python implementation of a Blackjack game with basic house rules.
 
-# Table of Contents
-Introduction
-House Rules
-How to Play
-
-Running the Game
-
 # Introduction
 This Python script implements a basic Blackjack game with a set of house rules. The game allows players to draw cards and compete against a computer opponent.
 
