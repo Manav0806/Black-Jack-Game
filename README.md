@@ -5,6 +5,7 @@ A simple Python implementation of a Blackjack game with basic house rules.
 Introduction
 House Rules
 How to Play
+
 Running the Game
 
 # Introduction
